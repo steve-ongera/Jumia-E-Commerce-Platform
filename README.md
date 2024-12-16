@@ -99,8 +99,8 @@ Jumia is a comprehensive full-featured e-commerce web application built using Dj
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/jumia-clone.git
-cd jumia-clone
+git clone https://github.com/steve-ongera/Jumia-E-Commerce-Platform.git
+cd Jumia-E-Commerce-Platform
 ```
 
 ### 2. Create Virtual Environment
@@ -221,9 +221,9 @@ python manage.py test
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
-Your Name - youremail@example.com
+Steve Ongera - gadafisteve001@gmail.com
 
-Project Link: [https://github.com/yourusername/jumia-clone](https://github.com/yourusername/jumia-clone)
+Project Link: [https://github.com/steve-ongera/Jumia-E-Commerce-Platform](https://github.com/steve-ongeraJumia-E-Commerce-Platform)
 
 ## 🙏 Acknowledgements
 - Django Documentation
